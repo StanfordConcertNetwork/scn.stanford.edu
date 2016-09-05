@@ -17,8 +17,7 @@ body {
 }
 
 .carousel,
-.item,
-.active {
+.item {
     height: 100%;
 }
 
@@ -89,6 +88,30 @@ body {
 	color: #fff;
 	border-color: #fff;
 	border-width: 5px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+
+.navbar-collapse {
+    padding: 0;
+}
+
+.navbar-collapse .navbar-nav {
+    margin: 0;
+}
+
+@media (max-width: 767px) {
+    .navbar-collapse .navbar-nav > li > a:hover,
+    .navbar-collapse .navbar-nav > .active > a,
+    .navbar-collapse .navbar-nav > .active > a:hover {
+        border-bottom: none;
+    }
 }
 
 .gallery {

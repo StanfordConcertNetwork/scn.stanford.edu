@@ -24,11 +24,12 @@
     <nav class="navbar navbar-inverse {% if page.url == "/" %} navbar-fixed-bottom {% endif %}" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
                     <i class="fa fa-bars"></i> More
                 </button>
+                <a class="navbar-brand visible-xs" href="/">SCN</a>
             </div>
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="collapse navbar-collapse" id="nav">
                 <ul class="nav navbar-nav">
                     <li {% if page.url == "/" %} class="active" {% endif %}>
                         <a href="/"><i class="fa fa-home"></i></a>
