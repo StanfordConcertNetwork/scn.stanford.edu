@@ -57,7 +57,7 @@ body {
 .navbar-inverse {
     font-size: 20px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     background-color: rgba(0, 0, 0, 0.6);
     border: none;
 }
@@ -89,4 +89,15 @@ body {
 	color: #fff;
 	border-color: #fff;
 	border-width: 5px;
+}
+
+.gallery {
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.gallery a img {
+    margin: 10px;
+    max-width: 40%;
+    max-height: 400px;
 }
