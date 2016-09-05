@@ -27,13 +27,12 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
                     <i class="fa fa-bars"></i> More
                 </button>
-                <a class="navbar-brand visible-xs" href="/">SCN</a>
+                <a class="navbar-brand" href="/">
+                    <img src="/assets/images/logo_small.png">
+                </a>
             </div>
             <div class="collapse navbar-collapse" id="nav">
                 <ul class="nav navbar-nav">
-                    <li {% if page.url == "/" %} class="active" {% endif %}>
-                        <a href="/"><i class="fa fa-home"></i></a>
-                    </li>
                     <li {% if page.url == "/info.html" %} class="active" {% endif %}>
                         <a href="/info">General Info</a>
                     </li>
