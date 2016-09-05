@@ -21,7 +21,7 @@
 
 <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+    <nav class="navbar navbar-inverse {% if page.url == "/" %} navbar-fixed-bottom {% endif %}" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -30,13 +30,16 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li>
+                    <li {% if page.url == "/" %} class="active" {% endif %}>
+                        <a href="/"><i class="fa fa-home"></i></a>
+                    </li>
+                    <li {% if page.url == "/info.html" %} class="active" {% endif %}>
                         <a href="/info">General Info</a>
                     </li>
-                    <li>
+                    <li {% if page.url == "/team.html" %} class="active" {% endif %}>
                         <a href="/team">Meet the Team</a>
                     </li>
-                    <li>
+                    <li {% if page.url == "/gallery.html" %} class="active" {% endif %}>
                         <a href="/gallery">Gallery</a>
                     </li>
                     <li>

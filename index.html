@@ -22,30 +22,13 @@ layout: default
                 </a>
             </div>
         </div>
-        <div class="item active">
-            <div class="fill" style="background-image:url(/assets/images/full1.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full2.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full3.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full4.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full5.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full6.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full7.jpg);"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url(/assets/images/full8.jpg);"></div>
-        </div>
+        {% for image in site.static_files %}
+            {% if image.path contains 'images/splashes' %}
+                <div class="item active">
+                    <div class="fill" style="background-image:url({{ image.path }});"></div>
+                </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 

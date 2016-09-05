@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="gallery">
+    {% for image in site.static_files %}
+        {% if image.path contains 'images/posters' %}
+            <a href="/{{ image.path }}">
+                <img src="//api.rethumb.com/v1/square/200/{{ site.url }}{{ image.path }}">
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<link href="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/css/lightgallery.min.css" rel="stylesheet">
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/js/lightgallery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/js/lg-thumbnail.min.js"></script>
+<script>$('.gallery').lightGallery({thumbnail: true})</script>

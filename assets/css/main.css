@@ -49,6 +49,11 @@ body {
 	color: #fff;
 }
 
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
 .navbar-inverse {
     font-size: 20px;
     padding-top: 20px;
@@ -62,8 +67,11 @@ body {
     font-weight: bold;
 }
 
-.navbar-inverse .navbar-nav > li > a:hover {
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover {
     border-bottom: 5px solid #fff;
+    background-color: initial;
 }
 
 .navbar-nav>li>a {
