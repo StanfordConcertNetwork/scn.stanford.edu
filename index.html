@@ -22,11 +22,13 @@ layout: default
                 </a>
             </div>
         </div>
+        {% assign first = true %}
         {% for image in site.static_files %}
             {% if image.path contains 'images/splashes' %}
-                <div class="item active">
+                <div class="item {% if first %} active {% endif %}">
                     <div class="fill" style="background-image:url({{ image.path }});"></div>
                 </div>
+                {% assign first = false %}
             {% endif %}
         {% endfor %}
     </div>
