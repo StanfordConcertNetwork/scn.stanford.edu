@@ -1,3 +1,48 @@
 ---
 layout: default
 ---
+
+<div class="container team">
+    {% for entry in site.data.team %}
+        <div class="row">
+            <div class="page-header">
+                <h2>{{ entry[0] | capitalize_all }}</h2>
+            </div>
+            {% for person in entry[1] %}
+                <div class="col-md-4">
+                    <div class="thumbnail" style="background-image: url(/assets/images/team/{{ person.image }}.jpg);">
+                        <div class="top-box">
+                            <div class="top-content">
+                                <h3>{{ person.name }}</h3>
+                            </div>
+                        </div>
+                        <div class="bottom-box">
+                            <div class="bottom-content">
+                                <dl class="dl-horizontal">
+                                    <dt>Position</dt>
+                                    <dd>{{ person.position }}</dd>
+                                    <dt>Year</dt>
+                                    <dd>{{ person.year }}</dd>
+                                    <dt>Email</dt>
+                                    <dd>
+                                        <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+                                    </dd>
+                                    {% if person.artist %}
+                                        <dt>Listening To</dt>
+                                        <dd>
+                                            {% if person.artist_link %}
+                                                <a href="{{ person.artist_link }}" target="blank">{{ person.artist }}</a>
+                                            {% else %}
+                                                {{ person.artist }}
+                                            {% endif %}
+                                        </dd>
+                                    {% endif %}
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>

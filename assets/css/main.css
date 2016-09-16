@@ -122,6 +122,66 @@ body {
     }
 }
 
+/* TEAM PAGE */
+
+.team .thumbnail {
+    padding: 0;
+    background-size: cover;
+    background-position: center center;
+    height: 400px; /* total height */
+    border-radius: 5px;
+    position: relative;
+}
+
+.team .thumbnail > .top-box {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 8px;
+    margin: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.team .thumbnail .top-content > h3 {
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #fff;
+}
+
+.team .thumbnail > .bottom-box {
+    clear: both;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    font-size: 1.2em;
+    padding-top: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.team .thumbnail .dl-horizontal {
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.team .thumbnail > .bottom-box a {
+    color: #fff;
+}
+
+@media all {
+    .team .thumbnail .dl-horizontal dt {
+        width: 113px;
+        text-align: right;
+        float: left;
+    }
+    .team .thumbnail .dl-horizontal dd {
+        margin-left: 133px;
+    }
+}
+
+/* GALLERY PAGE */
+
 .gallery {
     background-color: rgba(0, 0, 0, 0.8);
     text-align: center;

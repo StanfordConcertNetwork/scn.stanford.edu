@@ -1,0 +1,146 @@
+presidents:
+  - image: rosalind
+    name: Rosalind Lutsky
+    position: Co-President
+    year: Junior
+    email: rlutsky@stanford.edu
+    artist: Band of Horses
+    artist_link: https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF
+  - image: tommy
+    name: Tommy Choi
+    position: Co-President
+    year: Junior
+    email: tjchoi@stanford.edu
+    artist: Frank Ocean
+    artist_link: https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+  - image: robert
+    name: Robert Webber
+    position: Co-President
+    email: rob100@stanford.edu
+    year: Sophomore
+    artist:
+    artist_link:
+financial officers:
+  - image: alexb
+    name: Alex Barakat
+    position: Financial Officer
+    year: Junior
+    email: alexb23@stanford.edu
+    artist:
+    artist_link:
+  - image: skyler
+    name: Skyler McLean
+    position: Financial Officer
+    year: Sophomore
+    email: sgmclean@stanford.edu
+    artist:
+    artist_link:
+advisory board:
+  - image: nick
+    name: Nick Burakoff
+    position: Advisor
+    year: Senior
+    email: nburakof@stanford.edu
+    artist: Jauz
+    artist_link: https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8
+  - image: alexm
+    name: Alex Mack
+    position: Advisor
+    year: Senior
+    email: alexmack@stanford.edu
+    artist:
+    artist_link:
+  - image: manolis
+    name: Manolis Sueuga
+    position: Advisor
+    year: Senior
+    email: msueuga@stanford.edu
+    artist:
+    artist_link:
+  - image: sasha
+    name: Sasha Perigo
+    position: Advisor
+    year: Senior
+    email: sperigo@stanford.edu
+    artist: Crystal Castles
+    artist_link: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
+producers:
+  - image: ariel
+    name: Ariel Bong
+    position: Producer
+    year: Sophomore
+    email: abong@stanford.edu
+    artist:
+    artist_link:
+  - image: dante
+    name: Dante Zakhidov
+    position: Producer
+    year: Sophomore
+    email: zakhidov@stanford.edu
+    artist:
+    artist_link:
+  - image: luigi
+    name: Luigi Sambuy
+    position: Producer
+    year: Junior
+    email: lsambuy@stanford.edu
+    artist:
+    artist_link:
+  - image: spencer
+    name: Spencer Giel
+    position: Producer
+    year: Senior
+    email: sgiel@stanford.edu
+    artist: Buttechno
+    artist_link: https://soundcloud.com/buttechno
+  - image: andres
+    name: Andres Hernandez
+    position: Producer
+    year: Junior
+    email: andresh@stanford.edu
+    artist: 99.9%
+    artist_link: https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z
+directors:
+  - image: sam
+    name: Sam Laurin
+    position: Tech Director
+    email: laurins@stanford.edu
+    year: Sophomore
+    artist:
+    artist_link:
+  - image: sofi
+    name: Sofi Arimany
+    position: Hopsitality Director
+    year: Senior
+    email: aarimany@stanford.edu
+    artist:
+    artist_link:
+  - image: alejandra
+    name: Alejandra Salazar
+    position: Creative Director
+    year: Senior
+    artist: James Blake
+    email: amsalazar@stanford.edu
+    artist:
+    artist_link:
+  - image: tessa
+    name: Tessa Smith
+    position: Social Chair
+    year: Junior
+    email: tjs96@stanford.edu
+    artist:
+    artist_link:
+  - image: henry
+    name: Henry Ingram
+    position: Marketing Director
+    year: Junior
+    email: hingram@stanford.edu
+    artist:
+    artist_link:
+  - image: tony
+    name: Tony Bruess
+    position: Online Operations Director
+    year: Junior
+    email: bruess@stanford.edu
+    artist:
+    artist_link:
