@@ -1,4 +1,4 @@
-presidents:
+Presidents:
   - image: rosalind
     name: Rosalind Lutsky
     position: Co-President
@@ -20,7 +20,7 @@ presidents:
     year: Sophomore
     artist:
     artist_link:
-financial officers:
+Financial Officers:
   - image: alexb
     name: Alex Barakat
     position: Financial Officer
@@ -35,7 +35,7 @@ financial officers:
     email: sgmclean@stanford.edu
     artist:
     artist_link:
-advisory board:
+Advisory Board:
   - image: nick
     name: Nick Burakoff
     position: Advisor
@@ -64,7 +64,7 @@ advisory board:
     email: sperigo@stanford.edu
     artist: Crystal Castles
     artist_link: https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO
-producers:
+Producers:
   - image: ariel
     name: Ariel Bong
     position: Producer
@@ -100,7 +100,7 @@ producers:
     email: andresh@stanford.edu
     artist: 99.9%
     artist_link: https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z
-directors:
+Directors:
   - image: sam
     name: Sam Laurin
     position: Tech Director
