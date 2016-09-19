@@ -24,7 +24,7 @@ layout: default
         </div>
         {% assign first = true %}
         {% for image in site.static_files %}
-            {% if image.path contains 'images/splashes' %}
+            {% if image.path contains 'img/splashes' %}
                 <div class="item {% if first %} active {% endif %}">
                     <div class="fill" style="background-image:url({{ image.path }});"></div>
                 </div>

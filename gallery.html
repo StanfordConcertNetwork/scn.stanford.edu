@@ -4,7 +4,7 @@ layout: default
 
 <div class="gallery">
     {% for image in site.static_files %}
-        {% if image.path contains 'images/posters' %}
+        {% if image.path contains 'img/posters' %}
             <a href="{{ image.path }}">
                 <img src="{{ image.path }}">
             </a>
