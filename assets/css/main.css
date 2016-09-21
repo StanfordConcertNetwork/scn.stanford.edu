@@ -1,9 +1,15 @@
+/* CAROUSEL */
+
+html {
+    position: relative;
+}
+
 body, html {
-	height: 100%;
+    min-height: 100%;
 }
 
 body {
-	background: none;
+    background: none;
 }
 
 .fill {
@@ -16,37 +22,56 @@ body {
     -o-background-size: cover;
 }
 
-.carousel,
-.item {
-    height: 100%;
+.carousel {
+    z-index: -1;
 }
 
-.carousel-inner {
-    height: 100%;
+.carousel,
+.carousel-inner,
+.item,
+.fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
+
+.carousel-inner > .item {
+    position: absolute;
+}
+
+/* MAIN INFO */
 
 .main-info {
-	top: initial;
-	left: initial;
-	right: initial;
-	bottom: initial;
-	text-align: left;
-	background-color: rgba(0, 0, 0, 0.6);
-	padding: 30px;
-	text-shadow: none;
+    margin-bottom: 125px;
 }
 
-.main-info h1 {
-	font-size: 4em;
+.caption {
+    top: 0;
 }
 
-.main-info p {
-	font-size: 1.5em;
+.caption .col {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 30px;
+    text-shadow: none;
+    text-align: left;
+    color: #fff;
 }
 
-.main-info a {
-	color: #fff;
+.caption .col h1 {
+    font-size: 4em;
 }
+
+.caption .col p {
+    font-size: 1.5em;
+}
+
+.caption .col a {
+    color: #fff;
+}
+
+/* NAVBAR */
 
 .navbar {
     border-radius: 0;
@@ -77,7 +102,7 @@ body {
     margin-left: 0;
 }
 
-.navbar-nav>li>a {
+.navbar-nav > li > a {
     padding: 0;
     padding-bottom: 5px;
     margin: 15px;
@@ -89,9 +114,9 @@ body {
 }
 
 .navbar-inverse .navbar-toggle {
-	color: #fff;
-	border-color: #fff;
-	border-width: 5px;
+    color: #fff;
+    border-color: #fff;
+    border-width: 5px;
 }
 
 .navbar-inverse .navbar-brand {

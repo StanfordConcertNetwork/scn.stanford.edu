@@ -2,26 +2,35 @@
 layout: default
 ---
 
+<div class="container main-info">
+    <div class="row caption">
+        <div class="col col-md-5 col-lg-4">
+            <h1>
+                Stanford
+                Concert
+                Network
+            </h1>
+            <br><br>
+            <a href="{{ site.event.link }}" target="blank">
+                <p>
+                    {{ site.event.title }}<br>
+                    {{ site.event.date }}<br>
+                    {{ site.event.location }}
+                    <i class="fa fa-facebook-square pull-right"></i>
+                </p>
+            </a>
+        </div>
+        <div class="col-md-2 col-lg-3">&nbsp;</div>
+        <div class="col col-md-5">
+            <h2>About SCN</h3>
+            <p class="lead">Stanford Concert Network is a student organization at Stanford University dedicated to bringing live music to the Stanford bubble. We organize the annual Frost Music &amp; Arts Festival in May as well as host frequent shows featuring rising artists of diverse styles. In addition, we provide rental services for sound equipment and qualified sound technicians to the Stanford community. Our mission is to provide our student members with educational experiences within the music industry, sound tech, marketing, finances, and more.</p>
+        </div>
+    </div>
+</div>
+
+
 <div class="carousel slide">
     <div class="carousel-inner">
-        <div class="container">
-            <div class="main-info carousel-caption">
-                <h1>
-                    Stanford<br>
-                    Concert<br>
-                    Network
-                </h1>
-                <br><br>
-                <a href="{{ site.event.link }}" target="blank">
-                    <p>
-                        {{ site.event.title }}<br>
-                        {{ site.event.date }}<br>
-                        {{ site.event.location }}
-                        <i class="fa fa-facebook-square pull-right"></i>
-                    </p>
-                </a>
-            </div>
-        </div>
         {% assign first = true %}
         {% for image in site.static_files %}
             {% if image.path contains 'img/splashes' %}
