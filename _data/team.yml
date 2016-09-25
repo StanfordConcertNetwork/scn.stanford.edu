@@ -48,8 +48,8 @@ Advisory Board:
     position: Advisor
     year: Senior
     email: alexmack@stanford.edu
-    artist:
-    artist_link:
+    artist: Tchami
+    artist_link: https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY
   - image: manolis
     name: Manolis Sueuga
     position: Advisor
@@ -110,7 +110,7 @@ Directors:
     artist_link: https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H
   - image: sofi
     name: Sofi Arimany
-    position: Hopsitality Director
+    position: Hospitality Director
     year: Senior
     email: aarimany@stanford.edu
     artist:
