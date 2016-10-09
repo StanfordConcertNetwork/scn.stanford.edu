@@ -71,6 +71,24 @@ body {
     color: #fff;
 }
 
+#suggest-input {
+    background: none;
+    border: none;
+    border-bottom: 2px white solid;
+    font-size: 1.5em;
+}
+
+#suggest-btn {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+}
+
+#suggest-input:focus,
+#suggest-btn:focus {
+    outline: none;
+}
+
 /* NAVBAR */
 
 .navbar {
