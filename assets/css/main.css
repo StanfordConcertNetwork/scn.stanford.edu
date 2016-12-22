@@ -4,11 +4,13 @@ html {
     position: relative;
 }
 
-body, html {
+body,
+html {
     min-height: 100%;
 }
 
 body {
+    font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, sans-serif;
     background: none;
 }
 
@@ -40,6 +42,7 @@ body {
 .carousel-inner > .item {
     position: absolute;
 }
+
 
 /* MAIN INFO */
 
@@ -89,6 +92,7 @@ body {
     outline: none;
 }
 
+
 /* NAVBAR */
 
 .navbar {
@@ -112,12 +116,13 @@ body {
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover {
-    border-bottom: 5px solid #fff;
+    border-bottom: 2px solid #fff;
     background-color: initial;
 }
 
 .navbar-inverse .navbar-nav.navbar-social > li > a {
     margin-left: 0;
+    display: inline-block;
 }
 
 .navbar-nav > li > a {
@@ -151,6 +156,7 @@ body {
 }
 
 .navbar-collapse .navbar-nav {
+    padding-left: 1em;
     margin: 0;
 }
 
@@ -165,13 +171,15 @@ body {
     }
 }
 
+
 /* TEAM PAGE */
 
 .team .thumbnail {
     padding: 0;
     background-size: cover;
     background-position: center center;
-    height: 400px; /* total height */
+    height: 400px;
+    /* total height */
     border-radius: 5px;
     position: relative;
 }
@@ -197,7 +205,7 @@ body {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     color: #fff;
-    font-size: 1.2em;
+    font-size: 1em;
     padding-top: 10px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -223,11 +231,18 @@ body {
     }
 }
 
+
 /* GALLERY PAGE */
 
 .gallery {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1.2em;
     background-color: rgba(0, 0, 0, 0.8);
     text-align: center;
+}
+
+.gallery-intro {
+    padding: 2em 10em 2em 10em;
 }
 
 .gallery a img {
