@@ -3,19 +3,26 @@ layout: default
 ---
 
 <div class="gallery">
-    <div class="gallery-intro">
+    <div class="container gallery-intro">
         <p>Since our inception in 2010, we've had the pleasure of hosting dozens of fantastic concerts at Stanford. Some highlights include <b>Steve Aoki, Modest Mouse, MGMT, Kaytranada, Fetty Wap,</b> and <b>Flume</b>.</p>
         <p>Check out the posters below from some of our past shows!</p>
     </div>
-    {% for image in site.static_files %} {% if image.path contains 'img/posters' %}
-    <a href="{{ image.path }}">
-        <img src="{{ image.path }}">
-    </a>
-    {% endif %} {% endfor %}
+    {% for image in site.static_files %}
+        {% if image.path contains 'img/posters' %}
+            <a class="gallery-item" href="{{ image.path }}">
+                <img src="{{ image.path }}">
+            </a>
+        {% endif %}
+    {% endfor %}
 </div>
 
 <link href="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/css/lightgallery.min.css" rel="stylesheet">
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/js/lightgallery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.21/js/lg-thumbnail.min.js"></script>
 
-<script>$('.gallery').lightGallery({thumbnail: true})</script>
+<script>
+$('.gallery').lightGallery({
+    thumbnail: true,
+    selector: '.gallery-item',
+});
+</script>
