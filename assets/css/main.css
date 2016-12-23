@@ -245,6 +245,12 @@ body {
     padding: 2em 10em 2em 10em;
 }
 
+@media (max-width: 767px) {
+    .gallery-intro {
+        padding: 1em 0.5em 0 0.5em;
+    }
+}
+
 .gallery a img {
     margin: 10px;
     max-width: 40%;
