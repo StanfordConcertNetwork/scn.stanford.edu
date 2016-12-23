@@ -178,8 +178,7 @@ body {
     padding: 0;
     background-size: cover;
     background-position: center center;
-    height: 400px;
-    /* total height */
+    height: 400px; /* total height */
     border-radius: 5px;
     position: relative;
 }
