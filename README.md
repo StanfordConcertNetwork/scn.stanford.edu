@@ -1,1 +1,2 @@
-# Stanford Concert Network Website
+# scn.stanford.edu
+Website for Stanford Concert Network
