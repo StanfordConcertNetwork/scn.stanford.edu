@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container news">
+    <div class="row">
+        <div class="page-header">
+            <h1>News</h1>
+        </div>
+    </div>
+    {% for post in paginator.posts %}
+        <div class="row">
+            <div class="col-md-12">
+                <div class="post">
+                    <div class="title">
+                        <span datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</span>
+                        <a href="{{ post.permalink }}"><h1>{{ post.title }}</h1></a>
+                    </div>
+                    <div class="entry">{{ post.excerpt }}</div>
+                    <a href="{{ post.permalink }}" class="pull-right">Continue reading &raquo;</a>
+                    <br>
+                    <hr>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    <div class="row">
+        <div class="col-md-12 footer">
+            {% include pagination.html %}
+        </div>
+    </div>
+</div>

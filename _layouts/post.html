@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="container news news-single">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="post">
+                <div class="title">
+                    <span datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</span>
+                    <h1>{{ page.title }}</h1>
+                </div>
+                <div class="entry">{{ content }}</div>
+                <hr>
+                <a href="/news">&laquo; Back to all news</a>
+            </div>
+        </div>
+    </div>
+</div>
