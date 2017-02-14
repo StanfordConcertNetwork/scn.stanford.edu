@@ -230,6 +230,16 @@ body {
     }
 }
 
+/* EVENTS PAGE */
+.events img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.events p {
+    text-align: center;
+}
+
 
 /* GALLERY PAGE */
 

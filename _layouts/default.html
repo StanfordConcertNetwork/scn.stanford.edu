@@ -35,14 +35,11 @@
             </div>
             <div class="collapse navbar-collapse" id="nav">
                 <ul class="nav navbar-nav">
+                    <li {% if page.url contains "/events" %} class="active" {% endif %}>
+                        <a href="/events/">Events</a>
+                    </li>
                     <li {% if page.url == "/team.html" %} class="active" {% endif %}>
                         <a href="/team">Meet the Team</a>
-                    </li>
-                    <li {% if page.url == "/gallery.html" %} class="active" {% endif %}>
-                        <a href="/gallery">Gallery</a>
-                    </li>
-                    <li>
-                        <a href="https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSdcJ_fVLvLKK0Jwj9njsasK1IKHF2axpHKx6eWd5SaGjXYNNg/viewform" target="blank">Co-Sponsorships</a>
                     </li>
                     <li class="visible-xs">
                         <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank">Facebook</a>

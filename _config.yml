@@ -1,8 +1,12 @@
 # Site settings
 title: Stanford Concert Network
 url: https://stanfordconcertnetwork.github.io
-event:
-  title: Oshi, XXYYXX, 20syl
-  date: 8PM Sep 30
-  location: EBF
-  link: https://facebook.com/events/EVENT
+events:
+  - title: BJ the Chicago Kid at Black Love
+    date: 6:30PM Friday Feb 17th
+    location: Toyon Lounge
+    link: https://www.facebook.com/events/607527856122808/
+  - title: Jerry Folk at Dance Marathon
+    date: 11PM Saturday Feb 18th
+    location: AOERC
+    link: https://www.facebook.com/events/194733154337407/
