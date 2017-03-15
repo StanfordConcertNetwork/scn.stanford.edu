@@ -255,6 +255,10 @@ body {
     color: black;
 }
 
+.news .post img {
+    max-width: 100%;
+}
+
 .news .footer {
     text-align: center;
 }
