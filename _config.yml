@@ -8,11 +8,7 @@ paginate_path: "/news/page:num"
 title: Stanford Concert Network
 url: https://stanfordconcertnetwork.github.io
 events:
-  - title: BJ the Chicago Kid at Black Love
-    date: 6:30PM Friday Feb 17th
-    location: Toyon Lounge
-    link: https://www.facebook.com/events/607527856122808/
-  - title: Jerry Folk at Dance Marathon
-    date: 11PM Saturday Feb 18th
-    location: AOERC
-    link: https://www.facebook.com/events/194733154337407/
+  - title: 2017 Frost Music & Arts Festival
+    date: Saturday May 20th
+    location: Stanford Football Stadium
+    link: https://www.facebook.com/events/928300317272746/
