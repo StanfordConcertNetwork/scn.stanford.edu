@@ -19,10 +19,6 @@ body {
 
 /* MAIN INFO */
 .caption {
-    top: 0;
-}
-
-.caption .col {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 30px;
     text-shadow: none;
@@ -30,16 +26,8 @@ body {
     color: #fff;
 }
 
-.caption .col h1 {
-    font-size: 4em;
-}
-
-.caption .col p {
+.caption p {
     font-size: 1.5em;
-}
-
-.caption .col a {
-    color: #fff;
 }
 
 #suggest-input {

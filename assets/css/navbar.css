@@ -17,8 +17,7 @@
     color: #fff;
     font-weight: bold;
     padding: 0;
-    padding-bottom: 5px;
-    margin: 15px;
+    margin: 16px;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
@@ -26,6 +25,7 @@
 .navbar-inverse .navbar-nav > .active > a:hover {
     border-bottom: 2px solid #fff;
     background-color: initial;
+    margin-bottom: 14px;
 }
 
 .navbar-inverse .navbar-nav .navbar-social > li > a {
@@ -59,6 +59,8 @@
 
 .hamburger {
     border: none;
+    margin: 0;
+    margin-right: 20px;
 }
 
 @media (max-width: 767px) {
