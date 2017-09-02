@@ -3,6 +3,7 @@ layout: post
 title:  "Announcing the 6th Annual Frost Music & Arts Festival"
 author: "Tony Bruess"
 date:   2017-02-13 00:00:00 -0600
+categories: news
 permalink: "/news/frost-2017-date"
 ---
 The 6th Annual Frost Music & Arts Festival will be held on May 20th, 2017 at the Stanford Football Stadium.
