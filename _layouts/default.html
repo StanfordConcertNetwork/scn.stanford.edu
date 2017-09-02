@@ -29,23 +29,32 @@
                 <a class="navbar-brand" href="/">
                     <img src="/assets/img/logo_small.png">
                 </a>
+
                 <button type="button" class="navbar-toggle hamburger" data-toggle="collapse" data-target="#nav">
                     <i class="fa fa-bars"></i>
                 </button>
+
+                <div class="quick-fb">
+                <i style="color: #fff"
+                   class="fa fa-facebook-square visible-xs"
+                   href="https://www.facebook.com/stanfordconcertnetwork" 
+                   target="blank"></i>
+                </div>
+
+                <p class="navbar-text visible-xs"><b>Stanford Concert Network<b></p>
             </div>
             <div class="collapse navbar-collapse" id="nav">
                 <ul class="nav navbar-nav">
-                    <li {% if page.url contains "/events" %} class="active" {% endif %}>
-                        <a href="/events/">Events</a>
-                    </li>
                     <li {% if page.url contains "/news" %} class="active" {% endif %}>
                         <a href="/news/">News</a>
                     </li>
                     <li {% if page.url == "/team" %} class="active" {% endif %}>
                         <a href="/team">Our Team</a>
                     </li>
-                    <li>
-                        <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank"><i class="fa fa-facebook-square"></i></a>
+                    <li class="hidden-xs">
+                        <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank">
+                            <i class="fa fa-facebook-square"></i>
+                        </a>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav pull-right hidden-sm hidden-xs">

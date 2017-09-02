@@ -13,6 +13,8 @@
     border: none;
 }
 
+/* Index Links */
+
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
     font-weight: bold;
@@ -33,11 +35,7 @@
     display: inline-block;
 }
 
-.navbar-inverse .navbar-toggle {
-    color: #fff;
-    border-color: #fff;
-    border-width: 5px;
-}
+/* Brand / Logo */
 
 .navbar-inverse .navbar-brand {
     padding: 0;
@@ -48,6 +46,31 @@
     height: 37px;
 }
 
+.navbar-text {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Collapsed Shortcuts */
+
+.hamburger {
+    color: #fff;
+    border: none;
+    margin: 0;
+    margin-right: 20px;
+}
+
+.quick-fb {
+    position: relative;
+    float: right;
+    margin-right: 15px;
+    margin-top: 13px;
+}
+
+/* Collapse Logic */
+
 .navbar-collapse {
     padding: 0;
 }
@@ -55,12 +78,6 @@
 .navbar-collapse .navbar-nav {
     padding-left: 1em;
     margin: 0;
-}
-
-.hamburger {
-    border: none;
-    margin: 0;
-    margin-right: 20px;
 }
 
 @media (max-width: 767px) {
