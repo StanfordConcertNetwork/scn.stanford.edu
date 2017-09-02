@@ -1,12 +1,23 @@
 @import url("navbar.css");
 @import url("carousel.css");
 
-/* MAIN INFO */
+/* GENERAL CSS */
 
-.main-info {
-    margin-bottom: 125px;
+html {
+    position: relative;
 }
 
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, sans-serif;
+    background: none;
+}
+
+/* MAIN INFO */
 .caption {
     top: 0;
 }
