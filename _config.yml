@@ -4,6 +4,7 @@ gems:
 
 title: Stanford Concert Network
 url: https://stanfordconcertnetwork.github.io
+source: ./src
 events:
   - title: 2017 Frost Music & Arts Festival
     date: Saturday May 20th
