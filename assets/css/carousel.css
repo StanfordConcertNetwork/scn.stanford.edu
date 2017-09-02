@@ -1,0 +1,45 @@
+/* CAROUSEL */
+
+html {
+    position: relative;
+}
+
+body,
+html {
+    min-height: 100%;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, sans-serif;
+    background: none;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel {
+    z-index: -1;
+}
+
+.carousel,
+.carousel-inner,
+.item,
+.fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.carousel-inner > .item {
+    position: absolute;
+}
+
