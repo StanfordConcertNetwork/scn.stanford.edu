@@ -30,6 +30,14 @@ body {
     font-size: 1.5em;
 }
 
+.main-top-space{
+    height: 80px;
+}
+
+.main-middle-space{
+    height: 120px;
+}
+
 #suggest-input {
     background: none;
     border: none;
@@ -107,6 +115,11 @@ body {
 }
 
 /* EVENTS PAGE */
+.events-col {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .events img {
     max-width: 100%;
     margin-bottom: 20px;
