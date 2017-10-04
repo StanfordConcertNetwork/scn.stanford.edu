@@ -23,39 +23,6 @@ Directors:
     concert: ODESZA at Red Rocks
     artist: SZA - Ctrl
     artist_link: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
-Advisory Board:
-  - image: tommy
-    name: Tommy Choi
-    position: Advisor
-    year: Senior
-    email: tjchoi@stanford.edu
-    concert: Deadmau5
-    artist: Rex Orange County
-    artist_link: https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL
-  - image: rosalind
-    name: Rosalind Lutsky
-    position: Advisor
-    year: Senior
-    email: rlutsky@stanford.edu
-    concert:
-    artist: Band of Horses
-    artist_link: https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF
-  - image: robert
-    name: Robert Webber
-    position: Advistor
-    email: rob100@stanford.edu
-    year: Junior
-    concert: Vulfpeck
-    artist: Pat Metheney
-    artist_link: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
-  - image: skyler
-    name: Skyler McLean
-    position: Financial Officer
-    year: Sophomore
-    email: sgmclean@stanford.edu
-    concert:
-    artist:
-    artist_link:
 Financial Officers:
   - image: bella
     name: Bella Cooper
@@ -179,3 +146,36 @@ Core Team:
     concert: Lukas Nelson
     artist: The War on Drugs
     artist_link: https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU
+Advisory Board:
+  - image: tommy
+    name: Tommy Choi
+    position: Advisor
+    year: Senior
+    email: tjchoi@stanford.edu
+    concert: Deadmau5
+    artist: Rex Orange County
+    artist_link: https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL
+  - image: rosalind
+    name: Rosalind Lutsky
+    position: Advisor
+    year: Senior
+    email: rlutsky@stanford.edu
+    concert:
+    artist: Band of Horses
+    artist_link: https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF
+  - image: rob
+    name: Robert Webber
+    position: Advistor
+    email: rob100@stanford.edu
+    year: Junior
+    concert: Vulfpeck
+    artist: Pat Metheney
+    artist_link: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
+  - image: skyler
+    name: Skyler McLean
+    position: Financial Officer
+    year: Sophomore
+    email: sgmclean@stanford.edu
+    concert:
+    artist:
+    artist_link:
