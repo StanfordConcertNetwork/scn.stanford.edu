@@ -1,52 +1,55 @@
 ---
 layout: default
 ---
-
-<div class="container main-info">
-    <div class="row caption">
-        <div class="col col-md-5 col-lg-4">
-            <h1>
-                Stanford
-                Concert
-                Network
-            </h1>
-            <br><br>
-            {% for event in site.events %}
-                <a href="{{ event.link }}" target="blank">
-                    <p>
-                        {{ event.title }}<br>
-                        {{ event.date }}<br>
-                        {{ event.location }}
-                        <a href="{{ event.link }}"><i class="fa fa-facebook-square pull-right"></i></a>
-                    </p>
-                </a>
-            {% endfor %}
-            <!--
-            <p id="suggest-txt">What artist do you want us to bring to campus next?</p>
-            <input type="text" id="suggest-input">
-            <button id="suggest-btn">Submit</button>
-            -->
-        </div>
-        <div class="col-md-2 col-lg-3">&nbsp;</div>
-        <div class="col col-md-5">
-            <h2>About SCN</h3>
-            <p class="lead">Stanford Concert Network is a student organization at Stanford University dedicated to bringing live music to the Stanford bubble. We organize the annual Frost Music &amp; Arts Festival in May as well as host frequent shows featuring rising artists of diverse styles. Our mission is to provide our student members with educational experiences within the music industry, sound tech, marketing, finances, and more.</p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="carousel slide">
+            <div class="carousel-inner">
+                {% assign first = true %}
+                    {% for image in site.static_files %}
+                        {% if image.path contains 'img/splashes' %}
+                        <div class="item {% if first %} active {% endif %}">
+                            <div class="fill" style="background-image:url({{ image.path }});"></div>
+                        </div>
+                        {% assign first = false %}
+                    {% endif %}
+                {% endfor %}
+            </div>
         </div>
     </div>
-</div>
 
+    <div class="row caption">
+        <p class="lead"><b>Stanford Concert Network</b> is a student organization at Stanford University dedicated to bringing live music to the Stanford bubble. We organize the annual Frost Music &amp; Arts Festival in May as well as host frequent shows featuring rising artists of diverse styles. Our mission is to provide our student members with educational experiences within the music industry, sound tech, marketing, finances, and more.</p>
+    </div>
 
-<div class="carousel slide">
-    <div class="carousel-inner">
-        {% assign first = true %}
-        {% for image in site.static_files %}
-            {% if image.path contains 'img/splashes' %}
-                <div class="item {% if first %} active {% endif %}">
-                    <div class="fill" style="background-image:url({{ image.path }});"></div>
-                </div>
-                {% assign first = false %}
-            {% endif %}
-        {% endfor %}
+    <div class="col events events-col">
+        <div class="row">
+            <div class="page-header">
+                <h1>Upcoming Events</h1>
+            </div>
+            <div class="col-lg-12">
+                <p class="lead">
+                <a href="https://www.facebook.com/events/928300317272746/" target="blank">RSVP for the 6th Annual Frost Music &amp; Arts Festival on Facebook</a>
+                </p>
+                <img src="/assets/img/events/frost2017banner.jpg">
+            </div>
+        </div>
+        <div class="row">
+            <div class="page-header">
+                <h1>Past Events</h1>
+            </div>
+            <div class="col-lg-12">
+                <img src="/assets/img/events/snowchellabanner.jpg">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/assets/img/events/blacklove.jpg">
+            </div>
+            <div class="col-md-6">
+                <img src="/assets/img/events/jerry.jpg">
+            </div>
+        </div>
     </div>
 </div>
 
