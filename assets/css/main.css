@@ -162,6 +162,10 @@ body {
     text-align: center;
 }
 
+.event-poster {
+    margin: auto;    
+    display: block;
+}
 
 /* NEWS PAGE */
 
