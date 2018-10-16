@@ -23,10 +23,6 @@ layout: default
                                     <dd>{{ person.position }}</dd>
                                     <dt>Year</dt>
                                     <dd>{{ person.year }}</dd>
-                                    <dt>Email</dt>
-                                    <dd>
-                                        <a href="mailto:{{ person.email }}">{{ person.email | truncate: 20 }}</a>
-                                    </dd>
                                     {% if person.artist %}
                                         <dt>Listening To</dt>
                                         <dd>
