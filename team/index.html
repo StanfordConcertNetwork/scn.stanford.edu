@@ -23,12 +23,13 @@ layout: default
                                     <dd>{{ person.position }}</dd>
                                     <dt>Year</dt>
                                     <dd>{{ person.year }}</dd>
+                                    {% if person.email %}
                                     <dt>Email</dt>
                                     <dd>
                                         {% if person.email %}
                                         <a href="mailto:{{ person.email }}">{{ person.email | truncate: 20 }}</a>
-                                        {% endif %}
                                     </dd>
+                                    {% endif %}
                                     {% if person.artist %}
                                         <dt>Listening To</dt>
                                         <dd>
