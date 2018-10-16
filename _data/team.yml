@@ -4,15 +4,18 @@ Directors:
     position: Co-Director
     year: Junior
     artist: Haley Heynderickx
+    email: bcooper5@stanford.edu
     artist_link:
   - image: sam
     name: Sam Laurin
+    email: laurins@stanford.edu
     position: Co-Director
     year: Senior
     artist: Masego
     artist_link: https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H
   - image: ali
     name: Ali Anglin
+    email: aanglin2@stanford.edu
     position: Co-Director
     year: Senior
     artist: KAYTRANADA
