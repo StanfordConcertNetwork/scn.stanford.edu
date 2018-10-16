@@ -1,181 +1,153 @@
 Directors:
-  - image: alex
-    name: Jennifer Park
-    position: Producer
-    year: Sophomore
-    email: alexb23@stanford.edu
-    concert: RUFUS DU SOL
-    artist: Jorja Smith
-    artist_link: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
-  - image: angela
-    name: Angela Black
-    position: Co-Director
-    year: Sophomore
-    email: aablack@stanford.edu
-    concert: Weezer at Del Mar Fairgrounds
-    artist: Alvvays, Mac Demarco, Tame Impala
-    artist_link:
-  - image: tony
-    name: Tony Bruess
-    position: Co-Director
-    year: Senior
-    email: bruess@stanford.edu
-    concert: ODESZA at Red Rocks
-    artist: SZA - Ctrl
-    artist_link: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
-Financial Officers:
   - image: bella
     name: Bella Cooper
+    position: Co-Director
+    year: Junior
+    email: bcooper5@stanford.edu
+    artist: Haley Heynderickx
+    artist_link:
+  - image: sam
+    name: Sam Laurin
+    position: Co-Director
+    year: Senior
+    email: laurins@stanford.edu
+    artist: Masego
+    artist_link: https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H
+  - image: ali
+    name: Ali Anglin
+    position: Co-Director
+    year: Senior
+    email: aanglin2@stanford.edu
+    artist: KAYTRANADA
+    artist_link:
+Financial Officers:
+  - image: federico
+    name: Federico Reyes Gomez
     position: Financial Officer
     year: Sophomore
-    email: bcooper5@stanford.edu
-    concert: Jenny Lewis at The Phoenix Theatre
-    artist: Jorja Smith
-    artist_link: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
-  - image: kenta
-    name: Kenta Yaegashi
+    email: frg100@stanford.edu
+    artist: Whethan
+    artist_link:
+  - image: ariel
+    name: Ariel Bong
     position: Financial Officer
-    year: Junior
-    email:
-    concert:
-    artist:
+    year: Senior
+    email: abong@stanford.edu
+    artist: Mwaka Moon
     artist_link:
 Producers:
+  - image:
+    name: Lara Bagdasarian
+    position: Producer
+    year: Sophomore
+    email: lbagdas@stanford.edu
+    artist: Aphex Twin, Pink Floyd, HELATH
+    artist_link:
   - image: dante
     name: Dante Zakhidov
     position: Producer
     year: PhD Student
     email: zakhidov@stanford.edu
-    concert:
     artist: Outkast 
     artist_link: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
-  - image: kelly
-    name: Kelly Blake
+  - image: jen
+    name: Jennifer Park
     position: Producer
     year: Sophomore
-    email: kb3@stanford.edu
-    concert: John Mayer
-    artist:
+    email: jenpark9@stanford.edu
+    artist: Saba
     artist_link:
-  - image: jose
-    name: Jose Serrano
+  - image: louis
+    name: Louis Stenmark
     position: Producer
     year: Senior
-    email: jserran2@stanford.edu
-    concert: Kanye West
-    artist: Tyler the Creator 
-    artist_link: https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
-  - image: jenny
-    name: Jenny Nova
+    email: stenmark@stanford.edu
+    artist: PAWSA
+    artist_link:
+  - image: camille
+    name: Camille Dawson
     position: Producer
     year: Sophomore
-    email: jnova@stanford.edu
-    concert: Grimes
-    artist: Toto 
-    artist_link: https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF
-Core Team:
-  - image: ariel
-    name: Ariel Bong
+    email: cadawson@stanford.edu
+    artist: Bazzi
+    artist_link:
+  - image: jack
+    name: Jack Schoenfeld
+    position: Producer; Director of Sponsorships
+    year: Sophomore
+    email: jscho28@stanford.edu
+    artist: 070 Shake
+    artist_link:
+Hospitality Team:
+  - image: lindsay
+    name: Lindsay Thornton
+    position: Hospitality Director
+    year: Sophomore
+    email: lthorn@stanford.edu
+    artist: Rufus du Sol
+    artist_link:
+  - image: ben
+    name: Ben Werdegar
+    position: Hospitality Advisor
+    year: Junior
+    email: benwerd@stanford.edu
+    artist:
+    artist_link:
+Marketing:
+  - image: kyle
+    name: Kyle Reed
     position: Marketing Co-Director
     year: Junior
-    email: abong@stanford.edu
-    concert: Travis Scott
-    artist: Lorine Chia
-    artist_link: https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9
+    email: kylereed@stanford.edu
+    artist: Courtney Barnett
+    artist_link:
   - image: brad
     name: Bradley Lawrence
     position: Marketing Co-Director
-    year: Sophomore
+    year: Junior
     email: bradleyl@stanford.edu
-    concert: Zella Day
-    artist: No Doubt
-    artist_link: https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF
-  - image: schoenfeld
-    name: Jack Shoenfeld
+    artist: Wolf Alice
+  - image: max
+    name: Max Kilberg
     position: Marketing Co-Director
     year: Sophomore
-    email: bradleyl@stanford.edu
-    concert: Yeezus 2013
-    artist: Tyler the Creator
-    artist_link: https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
-  - image: sam
-    name: Sam Laurin
-    position: Tech Director
-    email: laurins@stanford.edu
+    email: mkilberg@stanford.edu
+    artist: The Grateful Dead
+    artist_link:
+Peer Advisory Board:
+  - image: angela
+    name: Angela Black
+    position: Advisory Board Member; Social Chair
     year: Junior
-    concert:
-    artist: JEFFERY
-    artist_link: https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H
-  - image: tessa
-    name: Tessa Smith
-    position: Hospitality Director
-    year: Senior
-    email: tjs96@stanford.edu
-    concert:
-    artist: Glass Animals
-    artist_link: https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq
-  - image: ben
-    name: Ben Werdegar
-    position: Hospitality Director
-    year: Sophomore
-    email: benwerd@stanford.edu
-    concert: ODESZA
-    artist: ODESZA
-    artist_link: https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw
-  - image: cristobal
-    name: Cristobal Sciutto
-    position: Online Operations
-    email: csciutto@stanford.edu
-    year: Sophomore
-    concert: Teto Preto, downtown São Paulo
-    artist: Madvillain
-    artist_link: https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU 
-  - image: lilla
-    name: Lilla Petruska
-    position: Social Chair
-    email: petruska@stanford.edu
-    year: Sophomore
-    concert: Jamie XX Coachella 2k15
-    artist: Kali Uchis
-    artist_link: https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM
-  - image: kyle
-    name: Kyle Reed
-    position: Graphic Designer
-    email: kylereed@stanford.edu
-    year: Sophomore
-    concert: Lukas Nelson
-    artist: The War on Drugs
-    artist_link: https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU
-Advisory Board:
-  - image: tommy
-    name: Tommy Choi
-    position: Advisor
-    year: Senior
-    email: tjchoi@stanford.edu
-    concert: Deadmau5
-    artist: Rex Orange County
-    artist_link: https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL
-  - image: rosalind
-    name: Rosalind Lutsky
-    position: Advisor
-    year: Senior
-    email: rlutsky@stanford.edu
-    concert:
-    artist: Band of Horses
-    artist_link: https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF
+    email: aablack@stanford.edu
+    artist: Blondie, the Marias, Cheers Elephant, Polo & Pan
+    artist_link:
   - image: rob
-    name: Robert Webber
-    position: Advistor
-    email: rob100@stanford.edu
-    year: Junior
-    concert: Vulfpeck
-    artist: Pat Metheney
-    artist_link: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
-  - image: skyler
-    name: Skyler McLean
-    position: Financial Officer
+    name: Robert Weber
+    position: Advisory Board Member
     year: Sophomore
-    email: sgmclean@stanford.edu
-    concert:
+    email: rob100@stanford.edu
+    artist: Pat Metheney
+    artist_link:
+Core Team:
+  - image: noah
+    name: Noah Anderson
+    position: Tech Director
+    year: Junior
+    email: nanderson@stanford.edu
+    artist: Thundercat
+    artist_link:
+  - image: sabrina
+    name: Sabrina Halper
+    position: Director of Internal Content
+    email: shalper@stanford.edu
+    year: Sophomore
     artist:
+    artist_link:
+  - image: emily
+    name: Emily O'Neal
+    position: Graphic Designer
+    year: Senior
+    email: eeoneal@stanford.edu
+    artist: SiR
     artist_link:
