@@ -2,128 +2,147 @@ Directors:
   - image: bella
     name: Bella Cooper
     position: Co-Director
-    year: Junior
-    artist: Haley Heynderickx
+    year: Senior
+    artist: Rick Astley
     email: bcooper5@stanford.edu
-    artist_link:
-  - image: sam
-    name: Sam Laurin
-    email: laurins@stanford.edu
-    position: Co-Director
-    year: Senior
-    artist: Masego
-    artist_link: https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H
-  - image: ali
-    name: Ali Anglin
-    email: aanglin2@stanford.edu
-    position: Co-Director
-    year: Senior
-    artist: KAYTRANADA
-    artist_link:
-Financial Officers:
+    artist_link: https://youtu.be/dQw4w9WgXcQ
   - image: federico
     name: Federico Reyes Gomez
+    email: frg100@stanford.edu
+    position: Co-Director
+    year: Junior
+    artist: Jai Wolf
+    artist_link: 
+  - image: ben
+    name: Ben Werdegar
+    email: benwerd@stanford.edu
+    position: Co-Director
+    year: Senior
+    artist: DROELOE
+    artist_link:
+Financial Officers:
+  - image: jennifer
+    name: Jennifer Park
+    position: Financial Officer
+    year: Junior
+    artist: Alvvays
+    artist_link:
+  - image: cassie
+    name: Cassie Pena
     position: Financial Officer
     year: Sophomore
-    artist: Whethan
-    artist_link:
-  - image: ariel
-    name: Ariel Bong
-    position: Financial Officer
-    year: Senior
-    artist: Mwaka Moon
+    artist: Conan Gray
     artist_link:
 Producers:
-  - image: lara
-    name: Lara Bagdasarian
+  - image: sara k
+    name: Sarah Kim
     position: Producer
     year: Sophomore
-    artist: Aphex Twin
+    artist: Willow Smith
+    artist_link:
+  - image: danya
+    name: Danya Adib
+    position: Producer
+    year: Junior
+    artist: Malaa 
+    artist_link: 
+  - image: carly
+    name: Carly Taylor
+    position: Producer
+    year: Sophomore
+    artist: Hop Along
+    artist_link:
+  - image: timothy
+    name: Timothy Karoff
+    position: Producer
+    year: Sophomore
+    artist: Big Thief
+    artist_link:
+  - image: eneko
+    name: Eneko Axpe
+    position: Producer
+    year: PhD Student
+    artist: Hajar
     artist_link:
   - image: dante
     name: Dante Zakhidov
-    position: Producer
-    year: PhD Student
-    artist: Outkast 
-    artist_link: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
-  - image: jen
-    name: Jennifer Park
-    position: Producer
-    year: Sophomore
-    artist: Saba
-    artist_link:
-  - image: louis
-    name: Louis Stenmark
-    position: Producer
-    year: Sophomore
-    artist: PAWSA
-    artist_link:
-  - image: camille
-    name: Camille Dawson
-    position: Producer
-    year: Sophomore
-    artist: Bazzi
-    artist_link:
-  - image: jack
-    name: Jack Schoenfeld
-    position: Producer; Sponsorships Director
-    year: Junior
-    artist: 070 Shake
+    position: Head Producer
+    year: PhD Studemt
+    artist: Sudan Archives
     artist_link:
 Hospitality Team:
-  - image: lindsay
-    name: Lindsay Thornton
+  - image: mira
+    name: Mira Guleri
     position: Hospitality Director
     year: Sophomore
-    artist: Rufus du Sol
-    artist_link:
-  - image: ben
-    name: Ben Werdegar
-    position: Hospitality Advisor
-    year: Junior
-    artist:
+    artist: Lil Tjay
     artist_link:
 Marketing:
+  - image: sarah
+    name: Sarah Ohta
+    position: Marketing Co-Director
+    year: Junior
+    artist: Aries
+    artist_link:
+  - image: xuchen
+    name: Xuchen Wei
+    position: Marketing Co-Director
+    year: Junior
+    artist: Flume
   - image: kyle
     name: Kyle Reed
     position: Merchandise and Brand Design Lead
     year: Senior
-    artist: Grateful Dead
-    artist_link:
-  - image: brad
-    name: Bradley Lawrence
-    position: Marketing Co-Director
-    year: Junior
-    artist: Wolf Alice
-  - image: max
-    name: Max Kilberg
-    position: Marketing Co-Director
-    year: Sophomore
     artist: The Grateful Dead
     artist_link:
 Peer Advisory Board:
   - image: angela
     name: Angela Black
     position: Advisory Board Member; Social Chair
-    year: Junior
-    artist: Blondie
+    year: Senior
+    artist: New Order
     artist_link:
-  - image: rob
-    name: Robert Weber
+  - image: jack
+    name: Jack Schoenfeld
     position: Advisory Board Member
     year: Senior
-    artist: Pat Metheney
+    artist: Goldlink
     artist_link:
 Core Team:
-  - image: sabrina
-    name: Sabrina Halper
-    position: Director of Internal Content
-    year: Sophomore
-    artist:
+  - image: ricky
+    name: Ricky Young
+    position: Technical Director
+    year: Junior
+    artist: Mononkul
     artist_link:
-  - image: emily
-    name: Emily O'Neal
+  - image: cooper
+    name: Cooper Reed
+    position: Technical Director
+    year: Junior
+    artist: Dreamville
+    artist_link:
+  - image: max
+    name: Max Kilberg
+    position: Snack Manager
+    year: Junior
+    artist: Maggie Rogers
+    artist_link:
+  - image: jared
+    name: Jared Poblete
+    position: Graphic Designer
+    year: Sophomore
+    artist: Anderson .Paak
+    artist_link:
+  - image: cyan
+    name: Cyan D'Anjou
+    position: Art Director
+    year: Sophomore
+    artist: Lolo Zouaï
+    artist_link:
+  - image: eva
+    name: Eva Hoffman
     position: Graphic Designer
     year: Senior
-    artist: SiR
+    artist: BROCKHAMPTON
     artist_link:
+   
