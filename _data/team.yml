@@ -34,7 +34,7 @@ Financial Officers:
     artist: Alex G
     artist_link: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs?si=1h_9YR-pSZCWHihC0bFSAQ
 Producers:
-  - image: dante2
+  - image: dante
     name: Dante Zakhidov
     position: Head Producer
     year: PhD Studemt
@@ -64,3 +64,16 @@ Producers:
     year: Junior
     artist: Flo Milli
     artist_link: https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd?si=w64kq3IoTqmZXkQog5XiGg
+Marketing:
+  - image: sarah_o
+    name: Sarah Ohta
+    position: Creative Director
+    year: Senior
+    artist: Japanese House
+    artist_link: https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u?si=KDZO_zpGTNqmjJVvcvAE7g
+ - image: kamilah
+    name: Kamilah Arteaga
+    position: Marketing Director
+    year: Junior
+    artist: SCN meetings playlist
+    artist_link: https://open.spotify.com/playlist/0QbQZj6d30kfqjCedgN8Sp?si=pwi74h1RRWSFapx1AyRhuQ
