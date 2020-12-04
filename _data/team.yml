@@ -1,12 +1,12 @@
 Directors:
-  - image: jennifer
+  - image: jenn
     name: Jennifer Park
     email: jenpark9@stanford.edu
     position: Co-Director
     year: Senior
     artist: Cocteau Twins
     artist_link: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp?si=9087XwyCRzKUA8mwRh_CJA
-  - image: federico
+  - image: fed
     name: Federico Reyes Gomez
     email: frg100@stanford.edu
     position: Co-Director
@@ -52,7 +52,7 @@ Producers:
     year: Junior
     artist: Terell Morris
     artist_link: https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU?si=TX9hlQfRSCWxwWPi1RP4KQ
-  - image: timthoy
+  - image: timothy
     name: Timothy Karoff
     position: Producer
     year: Junior
@@ -80,8 +80,8 @@ Marketing:
     artist_link: https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u?si=KDZO_zpGTNqmjJVvcvAE7g
  - image: kamilah
     name: Kamilah Arteaga
-    position: Marketing
-    year: Senior
+    position: Marketing Director
+    year: Junior
     artist: SCN meetings playlist
     artist_link: https://open.spotify.com/playlist/0QbQZj6d30kfqjCedgN8Sp?si=pwi74h1RRWSFapx1AyRhuQ
 Core Team:
