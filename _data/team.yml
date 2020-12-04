@@ -71,9 +71,34 @@ Marketing:
     year: Senior
     artist: Japanese House
     artist_link: https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u?si=KDZO_zpGTNqmjJVvcvAE7g
- - image: kamilah
+  - image: kamilah
     name: Kamilah Arteaga
     position: Marketing Director
     year: Junior
     artist: SCN meetings playlist
     artist_link: https://open.spotify.com/playlist/0QbQZj6d30kfqjCedgN8Sp?si=pwi74h1RRWSFapx1AyRhuQ
+Core Team:
+  - image: zaeda
+    name: Zaeda Blotner
+    position: Technical Director
+    year: Senior
+    artist: Darondo
+    artist_link: https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc?si=WVpjII-tTYWmEhIUm_0_8g
+  - image: jared
+    name: Jared Poblete
+    position: Graphic Designer
+    year: Junior
+    artist: Anderson .Paak
+    artist_link: https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa
+  - image: cooper
+    name: Cooper Reed
+    position: Web Master
+    year: Senior
+    artist: Dreamville
+    artist_link: https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG
+  - image: cyan
+    name: Cyan D'Anjou
+    position: Art Director
+    year: Junior
+    artist: Lolo Zouaï
+    artist_link: https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ
