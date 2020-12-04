@@ -1,130 +1,111 @@
 Directors:
-  - image: ricky
-    name: Ricky Young
-    email: ryoung98@stanford.edu
-    position: Co-Driector
-    year: Senior
-    artist: Mononkul
-    artist_link: https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM
-  - image: federico
-    name: Federico Reyes Gomez
-    email: frg100@stanford.edu
-    position: Co-Director
-    year: Senior
-    artist: Jai Wolf
-    artist_link: https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw
   - image: jennifer
     name: Jennifer Park
     email: jenpark9@stanford.edu
     position: Co-Director
     year: Senior
-    artist: Alvvays
-    artist_link: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
+    artist: Cocteau Twins
+    artist_link: https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp?si=9087XwyCRzKUA8mwRh_CJA
+  - image: federico
+    name: Federico Reyes Gomez
+    email: frg100@stanford.edu
+    position: Co-Director
+    year: Senior
+    artist: Bad Bunny
+    artist_link: https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X?si=EAvUf85CQ_eqKA_8cpkBJQ
+  - image: ricky
+    name: Ricky Young
+    email: ryoung98@stanford.edu
+    position: Co-Director
+    year: Senior
+    artist: Amelie Lens
+    artist_link: https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf?si=moy9I-EOT0y-g-KU6c9cbg
 Financial Officers:
   - image: carly
     name: Carly Taylor
     position: Financial Officer
     year: Junior
-    artist: Hop Along
-    artist_link: https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp
+    artist: Childish Gambino
+    artist_link: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL?si=6ZqPDzsZTmG-5LZeCBrMHg
+  - image: caroline
+    name: Caroline Hallee
+    position: Financial Officer
+    year: Junior
+    artist: Alex G
+    artist_link: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs?si=1h_9YR-pSZCWHihC0bFSAQ
 Producers:
-  - image: sarah_k
-    name: Sarah Kim
-    position: Producer
-    year: Junior
-    artist: Willow Smith
-    artist_link: https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF
-  - image: danya
-    name: Danya Adib
-    position: Producer
-    year: Senior
-    artist: Malaa
-    artist_link: https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS
-  - image: timthoy
-    name: Timothy Karoff
-    position: Producer
-    year: Junior
-    artist: Big Thief
-    artist_link: https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ
-  - image: eneko
-    name: Eneko Axpe
-    position: Producer
-    year: PhD Student
-    artist: Hajar
-    artist_link: https://open.spotify.com/artist/2pdJLLncuaxQzDw9zLjEgQ
   - image: dante
     name: Dante Zakhidov
     position: Head Producer
     year: PhD Studemt
     artist: Sudan Archives
     artist_link: https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u
+  - image: sarah_k
+    name: Sarah Kim
+    position: Producer
+    year: Junior
+    artist: Masego
+    artist_link: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig?si=esFF7HzMR8iod9bVktPsTg
+  - image: kyla
+    name: Kyla Windley
+    position: Producer
+    year: Junior
+    artist: Terell Morris
+    artist_link: https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU?si=TX9hlQfRSCWxwWPi1RP4KQ
+  - image: timthoy
+    name: Timothy Karoff
+    position: Producer
+    year: Junior
+    artist: Big Thief
+    artist_link: https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ
+  - image: kimberly
+    name: Kimberly Batdorf
+    position: Producer
+    year: Junior
+    artist: Flo Milli
+    artist_link: https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd?si=w64kq3IoTqmZXkQog5XiGg
 Hospitality Team:
-  - image: mira
-    name: Mira Guleri
+  - image: jayden
+    name: Jayden Lim
     position: Hospitality Director
     year: Junior
-    artist: Lil Tjay
-    artist_link: https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR
+    artist: mo musiq
+    artist_link: https://open.spotify.com/artist/3XL9w64AmS2qcBXKuwsIDR?si=im5tqhXfRMyjODr3v1ldJA
 Marketing:
-  - image: sarah
+  - image: sarah_o
     name: Sarah Ohta
-    position: Marketing Co-Director
+    position: Creative Director
     year: Senior
-    artist: Aries
-    artist_link: https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy
-  - image: xuchen
-    name: Xuchen Wei
-    position: Marketing Co-Director
+    artist: Japanese House
+    artist_link: https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u?si=KDZO_zpGTNqmjJVvcvAE7g
+ - image: kamilah
+    name: Kamilah Arteaga
+    position: Marketing
     year: Senior
-    artist: Flume
-    artist_link: https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer
-  - image: kyle
-    name: Kyle Reed
-    position: Merchandise and Brand Design Lead
-    year: Senior
-    artist: The Grateful Dead
-    artist_link: https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT
-Peer Advisory Board:
-  - image: angela
-    name: Angela Black
-    position: Advisory Board Member; Social Chair
-    year: Senior
-    artist: New Order
-    artist_link: https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3
-  - image: jack
-    name: Jack Schoenfeld
-    position: Advisory Board Member
-    year: Senior
-    artist: Goldlink
-    artist_link: https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ
+    artist: SCN meetings playlist
+    artist_link: https://open.spotify.com/playlist/0QbQZj6d30kfqjCedgN8Sp?si=pwi74h1RRWSFapx1AyRhuQ
 Core Team:
-  - image: cooper
-    name: Cooper Reed
+  - image: zaeda
+    name: Zaeda Blotner
     position: Technical Director
     year: Senior
-    artist: Dreamville
-    artist_link: https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG
-  - image: max
-    name: Max Kilberg
-    position: Snack Manager
-    year: Senior
-    artist: Maggie Rogers
-    artist_link: https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe
+    artist: Darondo
+    artist_link: https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc?si=WVpjII-tTYWmEhIUm_0_8g
   - image: jared
     name: Jared Poblete
     position: Graphic Designer
     year: Junior
     artist: Anderson .Paak
     artist_link: https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa
+  - image: cooper
+    name: Cooper Reed
+    position: Web Master
+    year: Senior
+    artist: Dreamville
+    artist_link: https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG
   - image: cyan
     name: Cyan D'Anjou
     position: Art Director
     year: Junior
     artist: Lolo Zouaï
     artist_link: https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ
-  - image: eva
-    name: Eva Hoffman
-    position: Graphic Designer
-    year: Senior
-    artist: BROCKHAMPTON
-    artist_link: https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA
