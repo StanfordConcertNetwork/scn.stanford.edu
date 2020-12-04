@@ -33,3 +33,34 @@ Financial Officers:
     year: Junior
     artist: Alex G
     artist_link: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs?si=1h_9YR-pSZCWHihC0bFSAQ
+Producers:
+  - image: dante
+    name: Dante Zakhidov
+    position: Head Producer
+    year: PhD Studemt
+    artist: Sudan Archives
+    artist_link: https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u
+  - image: sarah_k
+    name: Sarah Kim
+    position: Producer
+    year: Junior
+    artist: Masego
+    artist_link: https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig?si=esFF7HzMR8iod9bVktPsTg
+  - image: kyla
+    name: Kyla Windley
+    position: Producer
+    year: Junior
+    artist: Terell Morris
+    artist_link: https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU?si=TX9hlQfRSCWxwWPi1RP4KQ
+  - image: timothy
+    name: Timothy Karoff
+    position: Producer
+    year: Junior
+    artist: Big Thief
+    artist_link: https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ
+  - image: kimberly
+    name: Kimberly Batdorf
+    position: Producer
+    year: Junior
+    artist: Flo Milli
+    artist_link: https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd?si=w64kq3IoTqmZXkQog5XiGg
