@@ -1,6 +1,7 @@
 Directors:
   - image: ricky
     name: Ricky Young
+    email: ryoung98@stanford.edu
     position: Co-Driector
     year: Senior
     artist: Mononkul
@@ -9,12 +10,14 @@ Directors:
     name: Federico Reyes Gomez
     email: frg100@stanford.edu
     position: Co-Director
-    year:
+    year: Senior
     artist: Jai Wolf
     artist_link: https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw
   - image: jennifer
     name: Jennifer Park
-    position: Co-Driector
+    email: jenpark9@stanford.edu
+    position: Co-Director
+    year: Senior
     artist: Alvvays
     artist_link: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
 Financial Officers:
