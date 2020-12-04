@@ -20,3 +20,16 @@ Directors:
     year: Senior
     artist: Amelie Lens
     artist_link: https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf?si=moy9I-EOT0y-g-KU6c9cbg
+Financial Officers:
+  - image: carly
+    name: Carly Taylor
+    position: Financial Officer
+    year: Junior
+    artist: Childish Gambino
+    artist_link: https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL?si=6ZqPDzsZTmG-5LZeCBrMHg
+  - image: caroline
+    name: Caroline Hallee
+    position: Financial Officer
+    year: Junior
+    artist: Alex G
+    artist_link: https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs?si=1h_9YR-pSZCWHihC0bFSAQ
