@@ -1,5 +1,5 @@
 Directors:
- - image: ricky
+  - image: ricky
     name: Ricky Young
     position: Co-Driector
     year: Senior
@@ -9,7 +9,7 @@ Directors:
     name: Federico Reyes Gomez
     email: frg100@stanford.edu
     position: Co-Director
-    year: 
+    year:
     artist: Jai Wolf
     artist_link: https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw
   - image: jennifer
@@ -35,7 +35,7 @@ Producers:
     name: Danya Adib
     position: Producer
     year: Senior
-    artist: Malaa 
+    artist: Malaa
     artist_link: https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS
   - image: timthoy
     name: Timothy Karoff
@@ -125,4 +125,3 @@ Core Team:
     year: Senior
     artist: BROCKHAMPTON
     artist_link: https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA
-   
