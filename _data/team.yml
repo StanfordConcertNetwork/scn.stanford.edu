@@ -1,7 +1,7 @@
 Directors:
  - image: ricky
     name: Ricky Young
-    position: Technical Director
+    position: Co-Driector
     year: Senior
     artist: Mononkul
     artist_link: https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM
@@ -14,20 +14,13 @@ Directors:
     artist_link: https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw
   - image: jennifer
     name: Jennifer Park
-    position: Financial Officer
-    year: Senior
+    position: Co-Driector
     artist: Alvvays
     artist_link: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
 Financial Officers:
-  - image: cassandra
-    name: Cassie Pena
-    position: Financial Officer
-    year: Junior
-    artist: Conan Gray
-    artist_link: https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea
   - image: carly
     name: Carly Taylor
-    position: Producer
+    position: Financial Officer
     year: Junior
     artist: Hop Along
     artist_link: https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp
