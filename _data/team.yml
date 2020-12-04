@@ -1,61 +1,53 @@
 Directors:
-  - image: bella
-    name: Bella Cooper
-    position: Co-Director
+ - image: ricky
+    name: Ricky Young
+    position: Technical Director
     year: Senior
-    artist: Rick Astley
-    email: bcooper5@stanford.edu
-    artist_link: https://youtu.be/dQw4w9WgXcQ
+    artist: Mononkul
+    artist_link: https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM
   - image: federico
     name: Federico Reyes Gomez
     email: frg100@stanford.edu
     position: Co-Director
-    year: Junior
+    year: 
     artist: Jai Wolf
     artist_link: https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw
-  - image: ben
-    name: Ben Werdegar
-    email: benwerd@stanford.edu
-    position: Co-Director
-    year: Senior
-    artist: DROELOE
-    artist_link: https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA
-Financial Officers:
   - image: jennifer
     name: Jennifer Park
     position: Financial Officer
-    year: Junior
+    year: Senior
     artist: Alvvays
     artist_link: https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt
+Financial Officers:
   - image: cassandra
     name: Cassie Pena
     position: Financial Officer
-    year: Sophomore
+    year: Junior
     artist: Conan Gray
     artist_link: https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea
+  - image: carly
+    name: Carly Taylor
+    position: Producer
+    year: Junior
+    artist: Hop Along
+    artist_link: https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp
 Producers:
   - image: sarah_k
     name: Sarah Kim
     position: Producer
-    year: Sophomore
+    year: Junior
     artist: Willow Smith
     artist_link: https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF
   - image: danya
     name: Danya Adib
     position: Producer
-    year: Junior
+    year: Senior
     artist: Malaa 
     artist_link: https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS
-  - image: carly
-    name: Carly Taylor
-    position: Producer
-    year: Sophomore
-    artist: Hop Along
-    artist_link: https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp
   - image: timthoy
     name: Timothy Karoff
     position: Producer
-    year: Sophomore
+    year: Junior
     artist: Big Thief
     artist_link: https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ
   - image: eneko
@@ -74,20 +66,20 @@ Hospitality Team:
   - image: mira
     name: Mira Guleri
     position: Hospitality Director
-    year: Sophomore
+    year: Junior
     artist: Lil Tjay
     artist_link: https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR
 Marketing:
   - image: sarah
     name: Sarah Ohta
     position: Marketing Co-Director
-    year: Junior
+    year: Senior
     artist: Aries
     artist_link: https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy
   - image: xuchen
     name: Xuchen Wei
     position: Marketing Co-Director
-    year: Junior
+    year: Senior
     artist: Flume
     artist_link: https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer
   - image: kyle
@@ -110,34 +102,28 @@ Peer Advisory Board:
     artist: Goldlink
     artist_link: https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ
 Core Team:
-  - image: ricky
-    name: Ricky Young
-    position: Technical Director
-    year: Junior
-    artist: Mononkul
-    artist_link: https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM
   - image: cooper
     name: Cooper Reed
     position: Technical Director
-    year: Junior
+    year: Senior
     artist: Dreamville
     artist_link: https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG
   - image: max
     name: Max Kilberg
     position: Snack Manager
-    year: Junior
+    year: Senior
     artist: Maggie Rogers
     artist_link: https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe
   - image: jared
     name: Jared Poblete
     position: Graphic Designer
-    year: Sophomore
+    year: Junior
     artist: Anderson .Paak
     artist_link: https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa
   - image: cyan
     name: Cyan D'Anjou
     position: Art Director
-    year: Sophomore
+    year: Junior
     artist: Lolo Zouaï
     artist_link: https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ
   - image: eva
