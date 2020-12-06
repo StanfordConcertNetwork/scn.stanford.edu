@@ -64,6 +64,13 @@ Producers:
     year: Junior
     artist: Flo Milli
     artist_link: https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd?si=w64kq3IoTqmZXkQog5XiGg
+Hospitality:
+  - image: jayden
+    name: Jayden Lim
+    position: Hospitality Director
+    year: Sophomore
+    artist: mo musiq
+    artist_link: https://open.spotify.com/artist/3XL9w64AmS2qcBXKuwsIDR?si=lUPctafvSGmW2_L_5m82DA
 Marketing:
   - image: sarah_o
     name: Sarah Ohta
@@ -102,3 +109,9 @@ Core Team:
     year: Junior
     artist: Lolo Zouaï
     artist_link: https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ
+  - image: spencer
+    name: Spencer Chemtob
+    position: Philanthropic Events Producer
+    year: Sophomore
+    artist: Grizzly Bear
+    artist_link: https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4?si=30hKJ_7aR4iGhuRrrZF7FQ
