@@ -52,12 +52,30 @@ Producers:
     year: Junior
     artist: Terell Morris
     artist_link: https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU?si=TX9hlQfRSCWxwWPi1RP4KQ
+  - image: elliot
+    name: Elliot Dauber
+    position: Producer
+    year: Junior
+    artist: Arlie
+    artist_link: https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA?si=MPSI6phlRq2QV_iWa5HBkg
+  - image: janine
+    name: Janine Fleming
+    position: Producer
+    year: Junior
+    artist: Victoria Monet
+    artist_link: https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv?si=W7G4zrfWQbiRIEXXXrc7mA
   - image: timothy
     name: Timothy Karoff
     position: Producer
     year: Junior
     artist: Big Thief
     artist_link: https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ
+  - image: mira
+    name: Mira Guleri
+    position: Producer
+    year: Junior
+    artist: 2KBABY
+    artist_link: https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE?si=1A9cxpvVS0SASKMvJIwS7A
   - image: kimberly
     name: Kimberly Batdorf
     position: Producer
