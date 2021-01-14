@@ -1,26 +1,25 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import './App.css';
-import Home from './components/pages/Home';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Services from './components/pages/Services';
-import Products from './components/pages/Products';
-import SignUp from './components/pages/SignUp';
+import { makeStyles } from '@material-ui/core/styles';
+import { CssBaseline } from '@material-ui/core';
+import Header from './components/Header';
+import PlaceToVisit from './components/PlaceToVisit';
+import background from './assets/videos/odesza.mp4';
 
-function App() {
+const useStyles = makeStyles((theme) => ({
+  root: {
+    minHeight: '100vh',
+    backgroundImage: 'url(' + background + ')',
+    backgroundRepeat: 'no-repeat',
+    backgroundSize: 'cover',
+  },
+}));
+export default function App() {
+  const classes = useStyles();
   return (
-    <>
-      <Router>
-        <Navbar />
-        <Switch>
-          <Route path='/' exact component={Home} />
-          <Route path='/services' component={Services} />
-          <Route path='/products' component={Products} />
-          <Route path='/sign-up' component={SignUp} />
-        </Switch>
-      </Router>
-    </>
+    <div className={classes.root}>
+      <CssBaseline />
+      <Header />
+      <PlaceToVisit />
+    </div>
   );
 }
-
-export default App;
