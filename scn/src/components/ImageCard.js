@@ -29,7 +29,7 @@ const useStyles = makeStyles({
   },
 });
 
-export default function ImageCard({ place, checked }) {
+export default function ImageCard({ show, checked }) {
   const classes = useStyles();
 
   return (
@@ -37,7 +37,7 @@ export default function ImageCard({ place, checked }) {
       <Card className={classes.root}>
         <CardMedia
           className={classes.media}
-          image={place.imageUrl}
+          src={show.imageUrl}
           title='Contemplative Reptile'
         />
         <CardContent>
@@ -46,14 +46,14 @@ export default function ImageCard({ place, checked }) {
             variant='h5'
             component='h1'
             className={classes.title}>
-            {place.title}
+            {show.title}
           </Typography>
           <Typography
             variant='body2'
             color='textSecondary'
             component='p'
             className={classes.desc}>
-            {place.description}
+            {show.description}
           </Typography>
         </CardContent>
       </Card>
