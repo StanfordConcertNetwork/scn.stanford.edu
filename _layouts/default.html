@@ -21,19 +21,54 @@
     {% include analytics.html %}
 </head>
 
-<body>
+<style type="text/css">
+    @font-face {
+        font-family: "BebasNeue";
+        src: url('./scn/src/assets/fonts/BebasNeue-Regular.ttf') format("truetype");
+    }
 
-    <nav class="navbar navbar-inverse {% if page.url == "/" %} navbar-fixed-bottom {% endif %}" role="navigation">
+    span.customfont {
+        font-family: "BebasNeue";
+        font-size: 8rem;
+        color: #2eff00;
+        margin-bottom: 0;
+    }
+</style>
+
+<body style="display:flex; flex-direction: column; justify-content: space-between;">
+    <nav class="navbar navbar-inverse {% if page.url == " /" %} navbar-fixed-bottom {% endif %}" role="navigation">
+
+
         <div class="container">
+            <div style="display:flex; flex-direction:row; width: 100%; margin-left: -30px;">
+                <span style="font-size:7rem; margin-left: -5rem;" class="customfont">
+                    STANFORD CONCERT NETWORK
+                </span>
+                <span>&nbsp;&nbsp;</span>
+                <span style="font-size: 4rem; margin-top:2rem"
+                    class="customfont">presents...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <img style="max-width: 200px;" src="../176375477_4164125556972151_2883799050462011476_n.jpg"></img>
+                <div style="display:flex; flex-direction: column;">
+                    <img style="max-width: 30px;" src="../CalendarClip.png"></img>
+                    <span style="color: white; font-size: 2rem;" class="customfont">Full Calendar</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-inverse {% if page.url == " /" %} navbar-fixed-bottom {% endif %}" role="navigation"
+        style="margin-top: 37%;">
+        <div class="container" style="justify-content: bottom;">
+            <a class="navbar-brand" href="/">
+                <img src="/assets/img/logo_small.png">
+            </a>
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav">
                     <i class="fa fa-bars"></i> More
                 </button>
-                <a class="navbar-brand" href="/">
-                    <img src="/assets/img/logo_small.png">
-                </a>
             </div>
-            <div class="collapse navbar-collapse" id="nav">
+            <div class="collapse navbar-collapse" id="nav"
+                style="display:flex; justify-content: space-between; flex-direction: row;">
                 <ul class="nav navbar-nav">
                     <li {% if page.url contains "/events" %} class="active" {% endif %}>
                         <a href="/events/">Events</a>
@@ -41,20 +76,33 @@
                     <!-- <li {% if page.url contains "/news" %} class="active" {% endif %}> -->
                     <!--     <a href="/news/">News</a> -->
                     <!-- </li> -->
-                    <li {% if page.url == "/gallery" %} class="active" {% endif %}>
+                    <li {% if page.url=="/gallery" %} class="active" {% endif %}>
                         <a href="/gallery">Gallery</a>
                     </li>
-                    <li {% if page.url == "/team" %} class="active" {% endif %}>
+                    <li {% if page.url=="/team" %} class="active" {% endif %}>
                         <a href="/team">Our Team</a>
                     </li>
                     <li class="visible-xs">
                         <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank">Facebook</a>
                     </li>
                 </ul>
+                <ul class="nav navbar-nav">
+                    <img style="max-width: 100px;" src="../MiniSpot.png"></img>
+                </ul>
                 <ul class="nav navbar-nav navbar-social pull-right hidden-xs">
                     <li>
-                        <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank"><i class="fa fa-facebook-square"></i></a>
+                        <a href="https://www.facebook.com/stanfordconcertnetwork" target="blank"><i
+                                class="fa fa-facebook-square"></i></a>
                     </li>
+                    <li>
+                        <a href="https://www.instagram.com/stanford.concert.network/?hl=en" target="blank">
+                            <i class="fa fa-instagram"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://open.spotify.com/user/stanfordconcertnetwork" target="blank">
+                            <i class="fa fa-spotify"></i></a>
+                    </li>
+
                 </ul>
             </div>
         </div>

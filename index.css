@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'BebasNeue';
+    src: local('BebasNeue'), url('./scn/src/assets/fonts/BebasNeue-Regular.ttf') format('truetype');
+    font-family: 'BebasNeue';
+    font-weight: 'bolder';
+    font-size: 'larger';
+    color:#2eff00;
+}
+
+.div {
+       font-family: 'font-face'
+}
